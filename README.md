@@ -1,2 +1,3 @@
 # go-debug
-Golang preprocessor for debug variables print
+
+Golang preprocessor for debug variables print.
